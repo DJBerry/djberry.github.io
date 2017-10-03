@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
+
+Attempt n at getting thigns to play nicely.
 
 Hello. Let's see how this change goes.
 
